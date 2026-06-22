@@ -1,0 +1,16 @@
+# Compiled output
+out/
+dist/
+release/
+*.class
+*.jar
+
+# VS Code
+.vscode/
+
+# Claude AI session data
+.claude/
+
+# Misc
+sources.txt
+tile_debug/
